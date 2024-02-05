@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Durante a última semana de trabalho antes do tão esperado feriado, enfrentamos um desafio emocionante: criar nosso próprio portfólio pessoal, agora com um foco especial em responsividade. Utilizando a ferramenta Figma para visualizar o design, exploramos novas técnicas para tornar o site mais acessível e amigável em diferentes dispositivos.
+Durante a última semana de trabalho antes do tão esperado feriado, enfrentamos um desafio diferente: criar nosso próprio portfólio pessoal, agora com um foco especial em responsividade. Utilizando a ferramenta Figma para visualizar o design, exploramos novas técnicas para tornar o site mais acessível e dinamico em diferentes dispositivos.
 
 ## Novas Funcionalidades
 
@@ -17,5 +17,5 @@ Este desafio representou um marco em nossa jornada, exigindo que cada um de nós
 ## Ferramentas Utilizadas
 
 - [Figma](https://www.figma.com/): Ferramenta de design colaborativo.
-- HTML, CSS, JavaScript: Tecnologias utilizadas para implementar o site responsivo.
+- HTML, CSS,: Tecnologias utilizadas para implementar o site responsivo.
 - Pesquisa online: Exploração de recursos adicionais para superar desafios específicos.
